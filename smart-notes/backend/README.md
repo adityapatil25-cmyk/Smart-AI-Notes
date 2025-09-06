@@ -184,7 +184,7 @@ The app integrates with OpenAI's GPT-3.5-turbo model to provide:
 - Error handling
 - CORS protection
 
-## 🚀 Deployment
+
 
 ### Environment Variables for Production
 ```env
@@ -196,14 +196,7 @@ OPENAI_API_KEY=your_openai_api_key
 FRONTEND_URL=your_frontend_domain
 ```
 
-### Deployment Platforms
-This backend can be deployed on:
-- Heroku
-- Vercel
-- Railway
-- DigitalOcean
-- AWS
-- Google Cloud
+
 
 ## 🧪 Testing
 
@@ -213,29 +206,11 @@ You can test the API using:
 - cURL commands
 - Frontend integration
 
-## 🤝 Contributing
 
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
 
-## 📝 License
 
-This project is licensed under the MIT License.
 
-## 👨‍💻 Author
 
-Your Name - [@yourusername](https://github.com/yourusername)
 
-## 🙏 Acknowledgments
-
-- OpenAI for the GPT API
-- MongoDB team for the excellent database
-- Express.js community
-- All contributors and users
-
----
 
 **Happy Coding! 🎉**
